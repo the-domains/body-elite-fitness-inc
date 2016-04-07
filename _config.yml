@@ -1,0 +1,28 @@
+name: BODY ELITE FITNESS INC
+favicon: null
+layout_spectrum: 0.29865529271773994
+typography_spectrum: 0.6326446053571999
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3901393848937005
+  lightness: 0.33908228017389774
+  saturation: 0.7343553388491273
+  rhythmicContrast: 0.32429520320147276
+purpose: []
