@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BODY ELITE FITNESS INC]]></title>
+        <description><![CDATA[BODY ELITE FITNESS INC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 01:11:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABOUT]]></title>
+            <description><![CDATA[<article><h1>ABOUT</h1><p>Body Elite Fitness training center has been designed to allow our clients to work out in a quiet and comfortable environment.  Along with classic free-weights, we feature a wide range of state-of-the-art equipment. Your time spent at our training center will not only be healthy but will be without the madness of your daily routine.
+
+Our training center has been designed with your privacy in mind. Training with us is as comfortable as working out at your home with great results.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/567c131e-1ea6-4852-bcc3-a2862b84f12b.jpg"></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">c8d082cb-279f-4cdb-bfaf-2ad2e929e517</guid>
+            <pubDate>Thu, 07 Apr 2016 01:11:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
