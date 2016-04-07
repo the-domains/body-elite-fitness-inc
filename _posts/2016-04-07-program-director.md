@@ -48,8 +48,8 @@ description: >
   World Oyama Karate, Third Degree Black Belt
 
   Muay Thai Level 1
-datePublished: '2016-04-07T01:48:27.748Z'
-dateModified: '2016-04-07T01:47:57.704Z'
+datePublished: '2016-04-07T01:50:29.547Z'
+dateModified: '2016-04-07T01:48:28.474Z'
 title: Program Director
 author: []
 sourcePath: _posts/2016-04-07-program-director.md
