@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "Our programs are unlike anything you'll find elsewhere. With numerous trainers to match your abilities and personality, your dream results will come true. Each of our trainers have a unique specialization including multi-national programs. If you are looking for a trainer with a unique skillset, give us a call!"
-datePublished: '2016-04-11T23:12:57.132Z'
-dateModified: '2016-04-11T23:11:39.965Z'
+datePublished: '2016-04-11T23:15:10.959Z'
+dateModified: '2016-04-11T23:13:06.229Z'
 title: The Results Team
 author: []
 sourcePath: _posts/2016-04-11-the-results-team.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-results-team/index.html
-_type: WebPage
+_type: Article
 
 ---
 Our programs are unlike anything you'll find elsewhere. With numerous trainers to match your abilities and personality, your dream results will come true. Each of our trainers have a unique specialization including multi-national programs. If you are looking for a trainer with a unique skillset, give us a call!
