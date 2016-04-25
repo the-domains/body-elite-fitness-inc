@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Stabilization Phase
-datePublished: '2016-04-25T22:14:12.219Z'
-dateModified: '2016-04-25T22:12:02.631Z'
+datePublished: '2016-04-25T22:17:33.222Z'
+dateModified: '2016-04-25T22:14:20.056Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-stabilization-phase.md
