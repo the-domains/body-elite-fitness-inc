@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: Stabilization Phase
-datePublished: '2016-04-25T22:11:58.147Z'
-dateModified: '2016-04-25T22:11:29.258Z'
+datePublished: '2016-04-25T22:14:12.219Z'
+dateModified: '2016-04-25T22:12:02.631Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-stabilization-phase.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-25-stabilization-phase.md
-published: true
 starred: true
 url: stabilization-phase/index.html
-_type: Article
+_type: Blurb
 
 ---
 Stabilization Phase
