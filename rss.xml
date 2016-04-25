@@ -4,8 +4,15 @@
         <description><![CDATA[BODY ELITE FITNESS INC]]></description>
         <link>https://thegrid.ai/body-elite-fitness-inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 22:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 22:12:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/body-elite-fitness-inc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Stabilization Phase</p>]]></description>
+            <link>https://thegrid.ai/body-elite-fitness-inc/stabilization-phase/index.html</link>
+            <guid isPermaLink="false">d9d21940-29c1-4f74-8a87-8ed374d56094</guid>
+            <pubDate>Mon, 25 Apr 2016 22:11:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Results Team]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68d29cf-ce5c-481f-b21d-3c356351df76.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/body-elite-fitness-inc/program-director/index.html</link>
             <guid isPermaLink="false">3648a135-113a-412d-868b-06919ac4f9fd</guid>
             <pubDate>Thu, 07 Apr 2016 01:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Stabilization Phase</p>]]></description>
-            <link>https://thegrid.ai/body-elite-fitness-inc/stabilization-phase/index.html</link>
-            <guid isPermaLink="false">d9d21940-29c1-4f74-8a87-8ed374d56094</guid>
-            <pubDate>Mon, 25 Apr 2016 22:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
